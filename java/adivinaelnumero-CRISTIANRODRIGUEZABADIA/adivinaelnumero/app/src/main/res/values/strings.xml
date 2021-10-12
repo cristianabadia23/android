@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">adivinaelnumero</string>
+
+
+    <plurals name="numPulsaciones">
+        <item quantity="one">Intentado %d vez</item>
+        <item quantity="other">Intentado %d veces</item>
+    </plurals>
+    <string name="comprobar">Comprobar</string>
+    <string name="alet">Generar numero</string>
+    <string name="titulo">Adivina el numero</string>
+
+</resources>

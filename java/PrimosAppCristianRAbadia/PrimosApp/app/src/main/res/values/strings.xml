@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimosApp</string>
+    <string name="boton">Generar Numero</string>
+    <string name="aviso">Inserte un numero</string>
+</resources>

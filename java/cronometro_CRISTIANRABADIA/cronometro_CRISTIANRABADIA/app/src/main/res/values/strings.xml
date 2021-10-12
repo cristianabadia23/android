@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cronometro_CRISTIANRABADIA</string>
+    <string name="parar">PARAR</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="reiniciar">REINICIAR</string>
+    <string name="valorinic">00:00:00</string>
+    <string name="titulo">CRONÓMETRO</string>
+</resources>
